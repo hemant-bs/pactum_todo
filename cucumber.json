@@ -1,0 +1,8 @@
+{
+  "default": {
+    "paths": ["features/*.feature"],
+    "require": ["step_definition/*.js"],
+    "format": ["html:reports/cucumber-report.html"],
+    "publish-quite": true
+  }
+}

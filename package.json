@@ -1,0 +1,17 @@
+{
+  "name": "todo-automation",
+  "version": "1.0.0",
+  "description": "A project to automate todo tasks completion scenario using Cucumber and PactumJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.0.0",
+    "log4js": "^6.9.1",
+    "pactum": "^2.0.0"
+  }
+}
